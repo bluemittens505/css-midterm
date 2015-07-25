@@ -1,0 +1,4 @@
+<!-- background-color: #3E251A
+	header-background-color: #3A2417
+	text-color: #744329
+	highlighted-text-color: #9A6341 -->
